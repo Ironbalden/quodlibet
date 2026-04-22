@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quod Libet 0.24\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-25 11:38+0100\n"
-"PO-Revision-Date: 2026-03-28 16:09+0000\n"
+"PO-Revision-Date: 2026-04-07 04:09+0000\n"
 "Last-Translator: 麋麓 BigELK176 <BigELK176@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/quodlibet/quodlibet/zh_Hant/>\n"
@@ -2620,7 +2620,7 @@ msgstr "匯出路徑"
 msgid ""
 "Duplicate export paths detected! The export paths above can be edited before "
 "starting the synchronization."
-msgstr "檢測到重覆的匯出路徑！在開始同步之前，可對以上的匯出路徑先進行編輯。"
+msgstr "檢測到重複的匯出路徑！在開始同步之前，可對以上的匯出路徑先進行編輯。"
 
 #: quodlibet/ext/events/synchronize_to_device.py:293
 msgid ""
@@ -3023,7 +3023,7 @@ msgstr "隨機(_S)"
 
 #: quodlibet/ext/events/trayicon/menu.py:81
 msgid "_Repeat"
-msgstr "重覆(_R)"
+msgstr "重複(_R)"
 
 #: quodlibet/ext/events/trayicon/menu.py:87
 msgid "Stop _After This Song"
@@ -3384,7 +3384,7 @@ msgid ""
 "Type a new playlist name,\n"
 "or choose an existing Sonos playlist to overwrite"
 msgstr ""
-"輸入新的播放清單名稱，\n"
+"輸入新的播放清單名稱， \n"
 "或是選擇現有的 Sonos 播放清單來覆寫"
 
 #: quodlibet/ext/playlist/export_to_sonos.py:132
@@ -3449,7 +3449,7 @@ msgstr "移除從播放清單中重複的"
 
 #: quodlibet/ext/playlist/remove_duplicates.py:21
 msgid "Removes duplicate entries in a playlist."
-msgstr "移除在播放列表中的重覆項目。"
+msgstr "移除在播放列表中的重複項目。"
 
 #: quodlibet/ext/playlist/remove_duplicates.py:51
 #, python-format
@@ -3460,7 +3460,7 @@ msgstr[0] "確定要移除 %d 重複曲目？"
 #: quodlibet/ext/playlist/remove_duplicates.py:58
 #, python-format
 msgid "The duplicate songs will be removed from the playlist '%s'."
-msgstr "重覆的曲目將從播放列表t '%s' 中移除。"
+msgstr "重複的曲目將從播放列表t '%s' 中移除。"
 
 #: quodlibet/ext/playlist/shuffle.py:15
 msgid "Shuffle Playlist"
@@ -4170,7 +4170,7 @@ msgstr "獨特性"
 
 #: quodlibet/ext/songsmenu/custom_commands.py:67
 msgid "If set, this will remove duplicate computed values of the pattern"
-msgstr "若是設定，這將移除重覆計算的型式的值"
+msgstr "若是設定，這將移除重複計算的型式的值"
 
 #: quodlibet/ext/songsmenu/custom_commands.py:70
 msgid "max args"
@@ -5273,19 +5273,19 @@ msgstr "偏好較高評分(_H)"
 
 #: quodlibet/order/repeat.py:46
 msgid "Repeat this track"
-msgstr "重覆這首曲目"
+msgstr "重複這首曲目"
 
 #: quodlibet/order/repeat.py:47
 msgid "Repeat _this track"
-msgstr "重覆這首曲目(_T)"
+msgstr "重複這首曲目(_T)"
 
 #: quodlibet/order/repeat.py:60
 msgid "Repeat all"
-msgstr "重覆全部"
+msgstr "重複全部"
 
 #: quodlibet/order/repeat.py:61
 msgid "Repeat _all"
-msgstr "重覆全部(_A)"
+msgstr "重複全部(_A)"
 
 #: quodlibet/order/repeat.py:76
 msgid "One song"
